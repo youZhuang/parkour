@@ -30,7 +30,7 @@ public class UniWebView extends WebView{
         if (Build.VERSION.SDK_INT >= 8) {
             webSettings.setPluginState(WebSettings.PluginState.ON);
         } else {
-            webSettings.setPluginsEnabled(true);
+            //webSettings.setPluginsEnabled(true);
         }
 
         if (Build.VERSION.SDK_INT >= 11) {

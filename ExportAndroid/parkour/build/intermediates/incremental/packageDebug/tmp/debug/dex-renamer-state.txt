@@ -1,0 +1,4 @@
+#Sat Dec 22 15:44:16 GMT+08:00 2018
+base.0=F\:\\work\\parkour\\ExportAndroid\\parkour\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
